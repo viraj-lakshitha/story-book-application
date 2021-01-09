@@ -1,0 +1,19 @@
+{
+  "name": "tech-book-application",
+  "version": "1.0.0",
+  "description": "App to create public and private articles",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viraj-lakshitha/story-book-application.git"
+  },
+  "author": "Viraj Lakshitha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viraj-lakshitha/story-book-application/issues"
+  },
+  "homepage": "https://github.com/viraj-lakshitha/story-book-application#readme"
+}
